@@ -1,4 +1,3 @@
-# leetstack-week2
 # LeetStack Week 2: Linked Lists & Monotonic Stack
 
 My Python solutions for the Week 2 problems.
